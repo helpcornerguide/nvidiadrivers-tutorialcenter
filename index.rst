@@ -6,7 +6,7 @@ How to Download and Update Nvidia drivers - Step By Step Guide
 
 .. image:: get-start-button.png
    :alt: Nvidia drivers
-   :target: https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2VvV9nb0NlIhKZdifyMhH3x4m7JGIoO1BZ82mRw9eBPCz6EfnR6REge
+   :target: https://pre.im/?LMJaCn8AeSiIAsPGcf98iZjyOMKWbfGKnsrNs2H1s6VlCX4uIDELTNxm7zYgUL4oqIS9x1LGxBGIGiQ9K8
    :align: center
 
 
